@@ -1,0 +1,21 @@
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\On The Wing.exe.config
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\On The Wing.exe
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\On The Wing.pdb
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.csprojAssemblyReference.cache
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On_The_Wing.Properties.Resources.resources
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.csproj.GenerateResource.cache
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.csproj.CoreCompileInputs.cache
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.exe
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.pdb
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On_The_Wing.Form1.resources
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On_The_Wing.Properties.Resource1.resources
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\Interop.WMPLib.dll
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On The Wing.csproj.ResolveComReference.cache
+C:\Users\qwik\source\repos\On The Wing\On The Wing\obj\Debug\On_The_Wing.Resource1.resources
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\SoundR\Enhit.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\SoundR\motor.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\SoundR\Phit.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\SoundR\Pshoot.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\SoundR\medshot.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\Resources\medshot.wav
+C:\Users\qwik\source\repos\On The Wing\On The Wing\bin\Debug\Resources\Phit.wav

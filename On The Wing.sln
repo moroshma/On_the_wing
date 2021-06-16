@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On The Wing", "On The Wing\On The Wing.csproj", "{30B09C53-2A38-4033-AD61-C494383FE952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B09C53-2A38-4033-AD61-C494383FE952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B09C53-2A38-4033-AD61-C494383FE952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B09C53-2A38-4033-AD61-C494383FE952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B09C53-2A38-4033-AD61-C494383FE952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9969B374-F4E1-4C6F-ACFD-15656028A6C3}
+	EndGlobalSection
+EndGlobal
